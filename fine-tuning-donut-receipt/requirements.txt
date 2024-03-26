@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+langchain
+requests
+datasets
+sentencepiece
+tensorboard
