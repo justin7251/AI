@@ -4,3 +4,5 @@ torch
 langchain
 safetensors
 Pillow
+pandas
+jinja2
